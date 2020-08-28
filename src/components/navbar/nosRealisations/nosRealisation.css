@@ -1,0 +1,21 @@
+.photoDeBackGroundRealisation {
+    background-image: url("../../../img/creation application.jpg");
+    position: absolute ;
+    min-width: 100%;
+    min-height: 70%;
+    background-size: cover;
+    background-position: center;
+}
+.textBloc{
+   position: absolute;
+   width: 100%;
+   height: 100px;
+   top: 500px;
+   background-color: rgb(251, 163, 113);
+   margin-bottom: auto;
+}
+.clic1Plat{
+    width: 18rem;
+    height: 300px;
+    top: 600px;
+}

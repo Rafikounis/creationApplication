@@ -1,0 +1,32 @@
+.photoDeBackGround {
+ 
+    background-image: url("../../../img/mac.jpg");
+    position: fixed ;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+  
+  }
+  .creationApplicationText{
+    color: rgb(173, 155, 131);
+    text-align: center;
+    text-shadow: 20px 20px 40px;
+  }
+  .validationDesEtapesText{
+    display: flex;
+    margin: 45px;
+    color: 	rgb(36, 51, 168);
+    text-align: center;
+    align-items: flex-end;
+    justify-content: center;
+    text-shadow: 20px 20px 10px;
+    transition: 2s;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 2em;
+  }
+  .validationDesEtapesText:hover{
+    color: antiquewhite;
+    font-size: 3em;
+  }
+  
